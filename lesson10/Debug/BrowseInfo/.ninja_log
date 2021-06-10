@@ -1,0 +1,15 @@
+# ninja log v5
+25	271	6450624760000000	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/main.xcl	8de46e1f0a6c15a5
+0	295	6450624760000000	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/delay.xcl	dcc28abc576e828b
+303	365	6450624762891028	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/delay.pbi	855e32657432a01b
+278	384	6450624763080537	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/main.pbi	458d5434a2044e7b
+386	428	6450624763539303	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/project.pbd	95127268981dc8f9
+432	1682	6450624775876591	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/project.pbw	1e1d40b518aaddef
+5	70	6450626085258163	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/main.pbi	458d5434a2044e7b
+1	79	6450626080000000	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/main_fact.xcl	c58aea22351de33d
+86	137	6450626085936354	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/main_fact.pbi	8ed3dfb2a227084b
+140	170	6450626086285481	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/project.pbd	9b314d47dce7de28
+175	751	6450626091900410	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/project.pbw	1e1d40b518aaddef
+0	52	6450630718477588	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/main.pbi	458d5434a2044e7b
+56	77	6450630718736900	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/project.pbd	95127268981dc8f9
+81	615	6450630723943255	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/BrowseInfo/project.pbw	1e1d40b518aaddef

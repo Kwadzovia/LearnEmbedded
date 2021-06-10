@@ -1,0 +1,12 @@
+# ninja log v5
+3	189	6450625018133565	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Obj/delay.o	5e9c7cc09dc0cca7
+0	194	6450625018133565	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Obj/main.o	c4c568399335bf7b
+199	570	6450625021964205	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Exe/c.out	b804172e5330f64d
+2	113	6450626042907062	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Obj/main.o	c4c568399335bf7b
+26	125	6450626043016765	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Obj/main_fact.o	17bfcfe2d0a0a8e9
+1	38	6450626929317932	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Exe/c.out	b804172e5330f64d
+0	82	6450627396778725	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Obj/main.o	c4c568399335bf7b
+90	124	6450627397247241	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Exe/c.out	b804172e5330f64d
+0	111	6450628855130363	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Obj/main.o	c4c568399335bf7b
+116	150	6450628855559016	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Exe/c.out	b804172e5330f64d
+1	36	6450629709585501	C:/Users/selik/Documents/Hobbies/Embedded/LearnEmbedded/lesson10/Debug/Exe/c.out	b804172e5330f64d
